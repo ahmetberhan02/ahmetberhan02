@@ -8,8 +8,6 @@ Frontend, Backend ve mobil geliştirme alanlarında kendimi sürekli geliştirme
  **Üzerinde çalıştığım:** Kişisel bir Full Stack web uygulaması
  **İş birliği yapmak istediğim:** Full Stack ve açık kaynak projeler
  **Öğrendiklerim:** React, React Native, Dart ve modern backend teknolojileri
- **Bana sor:** Frontend, Backend, React Native veya Dart hakkında her şeyi
- **Eğlenceli bilgi:** Kod yazarken müziksiz yapamam 🎧
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ahmet_berhancanli) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:berhancanli@gmail.com)
